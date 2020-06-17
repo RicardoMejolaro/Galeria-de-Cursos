@@ -58,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 💻️ Acrescentado ao projeto porposto
+## 💻️ Acrescentado ao projeto proposto
 
 - Ícones das redes sociais.
 - Cores e estilizações que combinam com os cursos.
