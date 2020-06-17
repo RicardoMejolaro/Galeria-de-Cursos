@@ -83,7 +83,7 @@ $ npm -v
 
 ```bash
 # Clonar o repositório
-$ git clone 
+$ git clone https://github.com/RicardoMejolaro/Projeto-Galeria-de-Cursos.git
 
 #Entrar no diretório
 $ cd iniciando-front-end
