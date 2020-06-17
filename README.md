@@ -36,7 +36,7 @@ O LaunchBase é um treinamento no formato de bootcamp online que tem duração d
 </h1>
 
 <h1>
-<img src="assets/desafio-web.gif" alt="Gif demonstrativo Ecoleta">
+<img src="assets/desafio-web.gif" alt="Gif demonstrativo Galeria de Cursos">
 </h1>
 
 ## 📝️ Sobre
