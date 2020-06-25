@@ -36,7 +36,7 @@ O LaunchBase é um treinamento no formato de bootcamp online que tem duração d
 </h1>
 
 <h1>
-<img src="assets/desafio-web.gif" alt="Gif demonstrativo Ecoleta">
+<img src="assets/desafio-web.gif" alt="Gif demonstrativo Galeria de Cursos">
 </h1>
 
 ## 📝️ Sobre
@@ -58,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 💻️ Acrescentado ao projeto porposto
+## 💻️ Acrescentado ao projeto proposto
 
 - Ícones das redes sociais.
 - Cores e estilizações que combinam com os cursos.
@@ -83,7 +83,7 @@ $ npm -v
 
 ```bash
 # Clonar o repositório
-$ git clone 
+$ git clone https://github.com/RicardoMejolaro/Projeto-Galeria-de-Cursos.git
 
 #Entrar no diretório
 $ cd iniciando-front-end
