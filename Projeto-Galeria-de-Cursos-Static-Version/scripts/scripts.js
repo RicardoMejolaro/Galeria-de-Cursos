@@ -23,6 +23,7 @@ document.querySelector('.close-modal').addEventListener('click', () => {
   modalOverlay.classList.remove('active');
   //Retiranto o src no iframe da página, ao fechar o modal para que o video encerre
   modalOverlay.querySelector('iframe').src = "";
+  //Retiranto classe maximize do modal
   modal.classList.remove('maximize');
 });
 
@@ -46,4 +47,4 @@ document.querySelector('.minimize-modal').addEventListener('click', () => {
     //passou nas verificações
     modal.classList.remove('maximize');
   }
-})
+});
