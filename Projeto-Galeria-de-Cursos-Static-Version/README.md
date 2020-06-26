@@ -86,7 +86,7 @@ $ npm -v
 $ git clone https://github.com/RicardoMejolaro/Projeto-Galeria-de-Cursos.git
 
 #Entrar no diretório
-$ cd iniciando-front-end
+$ cd Projeto-Galeria-de-Cursos-Static-Version
 
 #Abrir projeto no VsCode
 $ code .
