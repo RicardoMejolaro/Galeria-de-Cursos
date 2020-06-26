@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
+
+    {% block head %}
+      <title>Bootcamp LaunchBase</title>
+    {% endblock %}
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/responsive.css">
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="menu">
+        <a href="/">Conteúdos</a>
+        <span>|</span>
+        <a href="/about">Sobre</a>
+        <span>|</span>
+        <a href="https://discordapp.com/invite/gCRAFhc" target="_blank">Comunidade</a>
+        <span>|</span>
+        <a href="mailto:oi@rocketseat.com.br" target="_blank">Email</a>
+        <span>|</span>
+        <a href="tel:+5547992078767" target="_blank">Telefone</a>
+      </div>
+
+      <div class="icons">
+        <a href="https://github.com/rocketseat" target="_blank">
+          <img src="assets/github.png" alt="GitHub">
+        </a>
+        <a href="https://www.instagram.com/rocketseat_oficial/" target="_blank">
+          <img src="assets/instagram.svg" alt="Instagram">
+        </a>
+        <a href="https://www.facebook.com/rocketseat">
+          <img src="assets/facebook.svg" alt="facebook" target="_blank">
+        </a>      
+      </div>
+    </header>
+    
+    {% block content %}
+      
+    {% endblock %}
+    
+  </body>
+
+</html>
