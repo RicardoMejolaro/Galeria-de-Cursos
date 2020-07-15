@@ -1,65 +1,47 @@
 <h1 align=center>
-<img src="Projeto-Galeria-de-Cursos-backend-Version/public/assets/logo-launchbase.svg" alt="Logo Next Level Week" width="250px">
-<h2 align=center><strong>Readme versão Backend</strong></h2>
+<img src="public/assets/logo-launchbase.svg" alt="Logo launchbase" width="200px">
+
+🚀 Desafio Front-End 3.1 - 3.2 - 3.3 BootCamp 🚀 <br/> <br/> 🚀 Done! ✔️
 </h1>
-
-<h4 align="center"> 
-🚀 Desafio Front-End 3.1 - 3.2 - 3.3 BootCamp 🚀 <br/> 🚀 Done! ✔️
-</h4>
-
----
 
 ## 📑️ Índice
 
-- [Bootcamp LaunchBase](#ℹ️-O-que-é-o-LaunchBase-Bootcamp)
 - [O projeto](#📝️-Sobre)
+- [Links desafios](#📝️-Links)
 - [Tecnologias utilizadas](#🚀️-Tecnologias-utilizadas)
 - [Acrescentado ao projeto original](#💻️-Acrescentado-ao-projeto-original)
 - [Como usar](#💾️-Como-baixar/testar-o-projeto)
-- [Contato](#-Desenvolvido-por:)
+- [Bootcamp LaunchBase](#ℹ️-O-que-é-o-LaunchBase)
+- [Contato](#-Desenvolvido-com-💙️-por)
+- [Licença](#-Licença)
 
 ---
-
-## ℹ️ O que é o LaunchBase?
-
-O LaunchBase é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento web para entrar com o pé direito nesse universo e ir direto ao ponto naquilo que realmente importa para alcançar seus maiores objetivos como dev..
-
-### Módulo iniciando no Front-end
-<h2>Links dos desafios</h2>
-<a><p>https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md</a></p>
-<a><p>https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-2-nunjucks-e-dados-dinamicos.md</a></p>
-<a><p>https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-3-pagina-descricao-curso.md</a></p>
-
----
-
-<h1 align=center>
-<img src="Projeto-Galeria-de-Cursos-backend-Version/public/assets/logo.jpg" alt="Rocketseat" width="150">
-</h1>
-
-<h1>
-<img src="Projeto-Galeria-de-Cursos-backend-Version/public/assets/desafio-web.gif" alt="Gif demonstrativo Galeria de Cursos">
-</h1>
 
 ## 📝️ Sobre
 
-O projeto trata-se de um site pessoal para consolidar o aprendizado durante o 
-módulo 3 do curso, onde deve-se utilizar as tecnologias de desenvolvimento HTML, CSS, JavaScript, NodeJS, Express e Template Engine Nunjucks.
+O projeto trata-se de um site de apresentação dos cursos da Rocketseat para 
+consolidar o aprendizado durante o módulo 3 do curso, onde deve-se utilizar as 
+tecnologias de desenvolvimento HTML, CSS, JavaScript, NodeJS, Express e 
+Template Engine Nunjucks.
+
+<h1>
+<img src="public/assets/desafio-web.gif" alt="Gif demonstrativo Galeria de Cursos">
+</h1>
+
+## 📝️ Links
+<ol>
+<li>
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md">PRIMEIRO SERVIDOR</a>
+</li>
+<li>
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-2-nunjucks-e-dados-dinamicos.md" target="_blank">TEMPLATE ENGINE NUNJUCKS E DADOS DINÂMICOS</a>
+</li>
+<li>
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-3-pagina-descricao-curso.md" target="_blank">PÁGINA DESCIÇÃO DOS CURSOS</a>
+</li>
+</ol>
 
 ---
-
-### Módulo iniciando no Backend
-
-<h2>Site</h2>
-<ul>
-  <li>Menu para duas páginas e contatos</li>
-  <li>Foto de perfil</li>
-  <li>Informações da empresa</li>
-  <li>Ícones com as tecnologias utilizadas e links de direcionamento</li>
-  <li>Ícones com as redes sociais e links de direcionamento</li>
-  <li>Página com demonstração dos cursos da empresa</li>
-  <li>Detalhes dos cursos</li>
-  <li>Direcionamento para página de pré-visualização em iframe e redirecionamento para página oficial</li>
-</ul>
 
 ## 🚀️ Tecnologias utilizadas
 
@@ -103,10 +85,10 @@ $ npm -v
 $ git clone https://github.com/RicardoMejolaro/Projeto-Galeria-de-Cursos.git
 
 #Entrar no diretório
-cd Projeto-Galeria-de-Cursos-backend-Version
+cd projeto-galeria-de-cursos
 
 #Abrir projeto no VsCode ou com seu prompt de comando de preferência
-code . ||  cd Projeto-Galeria-de-Cursos-backend-Version (Passo acima) 
+code . ||  cd projeto-galeria-de-cursos (Passo acima) 
 
 #Com o terminal aberto rodar o comando
 $ npm install para instalar as dependências necessárias
@@ -121,10 +103,20 @@ localhost:5000
 
 ---
 
-#### Desenvolvido por:
+## ℹ️ O que é o LaunchBase?
+
+O LaunchBase é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento web para entrar com o pé direito nesse universo e ir direto ao ponto naquilo que realmente importa para alcançar seus maiores objetivos como dev..
+
+---
+
+### Desenvolvido com 💙️ por
 
 ***Ricardo Mejolaro*** 
 <br/> 
 <a href="https://www.linkedin.com/in/ricardo-mejolaro/">
-<img src="Projeto-Galeria-de-Cursos-backend-Version/public/assets/linkedin.png">
+<img src="public/assets/linkedin.png">
 </a>
+
+### Licença
+
+Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.

@@ -1,0 +1,101 @@
+@media(min-width: 300px) and (max-width: 639px) {
+  header {
+    width: 100%;
+    padding: 10px;
+  }
+
+  div.menu {
+    width: 95%;
+    display: flex;
+    align-items: center;
+  }
+  
+  div.menu a {
+    font-size: 12px;  
+    margin: 10px auto;
+  }
+
+  .icons {
+    display: none;
+  }
+  
+  #wrapper img {
+    max-height: 150px;
+    margin-bottom: 10px;
+  }
+
+  #wrapper h1 {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: bold;
+  }
+
+  .links-icons-tecnologies img {
+    width: 30px;
+    margin: 10px;
+  }
+
+  /*=======Cards========*/
+
+  .cards {
+    max-width: 300px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    margin-bottom: 32px;
+  }
+
+  /*=======Page about========*/
+  #wrapper p {
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 32px;
+  }
+
+  .links-icons-tecnologies img {
+    height: 30px;
+    margin: 0 10px;
+  }
+ 
+}
+
+@media (min-width: 640px) and (max-width: 900px) {
+
+  div.menu {
+    width: 70%;
+    display: flex;
+    align-items: left;
+  }
+  
+  div.menu a {
+    font-size: 16px;  
+    margin: 10px 5px;
+  }
+
+  .icons {
+    text-align: right;
+    width: 50%;
+    margin: 20px 0;
+    margin-right: 50px;
+  }
+
+  .icons img {
+    height: 25px;
+    margin: 0 15px;
+  }
+
+  .cards {
+    max-width: 600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 32px;
+  }
+}
+
+
+
+
+

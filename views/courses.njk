@@ -1,0 +1,40 @@
+{% extends "layout.njk" %}
+
+{% block head %}
+
+<title>Cursos</title>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+{% endblock %}
+
+{% block content %}
+
+    <div id="content">
+      <h1>Conteúdos Rocketseat</h1>
+    </div>    
+
+    <section class="cards">
+      {% for course in courses %}
+        <div class="card" id="{{course.id}}">
+          <div class="number-card {{course.cor}}">
+            <span class="{{course.cor}}">{{course.number}}</span>
+          </div>
+          <div class="image-card">
+             <img src="{{course.logo}}" alt="{{course.id}}">
+          </div>
+          <div class="content-card">
+            <p><strong class="{{course.cor}}">{{course.titleone}}</strong>
+              {{course.titletwo}}</p>
+          </div>  
+          <div class="info-card">
+            <p>{{course.qtdmodules}}</p>
+            <p class="price-card">{{course.price}}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </section>
+
+    <script src="/scripts/scripts.js"></script>
+   
+{% endblock %}
