@@ -26,6 +26,24 @@ header {
   justify-content: space-between;
 }
 
+footer {
+  width: 100%;
+  padding: 20px 0;
+
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer ul li {
+  color: #FFF;
+  list-style: none;
+  margin: 10px 0;
+}
+
 span {
   color: white;
 }
