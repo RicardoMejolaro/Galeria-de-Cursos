@@ -1,7 +1,7 @@
 <h1 align=center>
 <img src="public/assets/logo-launchbase.svg" alt="Logo launchbase" width="200px">
 
-🚀 Desafio Front-End 3.1 - 3.2 - 3.3 BootCamp 🚀 <br/> <br/> 🚀 Done! ✔️
+🚀 Desafio Front-End 3.1 - 3.2 - 3.3 - 6.1 BootCamp 🚀 <br/> <br/> 🚀 Done! ✔️
 </h1>
 
 ## 📑️ Índice
@@ -38,6 +38,9 @@ Template Engine Nunjucks.
 </li>
 <li>
 <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-3-pagina-descricao-curso.md" target="_blank">PÁGINA DESCIÇÃO DOS CURSOS</a>
+</li>
+<li>
+<a href="https://github.com/rocketseat-education/bootcamp-launchbase-desafios-06/blob/master/desafios/06-1-mini-desafios.md" target="_blank">INCLUIR FOOTER</a>
 </li>
 </ol>
 
